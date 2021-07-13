@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    margin:25px;
+}
+
+.list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.shop {
+    border: 1px dotted black;
+    margin: 0 5 0 5;
+    flex-basis: 26%;
+    text-align: left;
+}
